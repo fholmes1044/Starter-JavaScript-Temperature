@@ -1,0 +1,14 @@
+let kelvin = 5;
+
+let cel = kelvin +=10;
+
+console.log (cel);
+
+let fahrenheit =  cel * (9/5) + 32;
+
+console.log (fahrenheit);
+
+console.log(Math.floor(fahrenheit));
+
+
+console.log(`The temperature is ${fahrenheit} degrees Fahrenheit`);
